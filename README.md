@@ -7,7 +7,7 @@
 
 ### ⚡ Skills that Ignite My Code
 - 👨‍💻 Programming Languages: Python, JavaScript, C, C++
-- 🌐 Web Development: Django, HTML, CSS
+- 🌐 Web Development: Django,Reactjs, HTML, CSS
 - 💼 ERP Development: Odoo (Open Source Business Applications)
 - 🤖 Database Management: SQL
 - 🔍 Web Scraping: Unleashing the power to extract hidden gems from the web.
