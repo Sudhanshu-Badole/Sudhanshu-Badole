@@ -9,7 +9,7 @@
 - 👨‍💻 Programming Languages: Python, JavaScript, C, C++
 - 🌐 Web Development: Django,Reactjs, HTML, CSS
 - 💼 ERP Development: Odoo (Open Source Business Applications)
-- 🤖 Database Management: SQL
+- 🤖 Database Management: SQL, MongoDB, MySQL, Postgres
 - 🔍 Web Scraping: Unleashing the power to extract hidden gems from the web.
 - 💼 Automation: Automating the mundane, one script at a time.
 - 🤖 Machine Learning: Infusing intelligence into my creations, one algorithm at a time.
