@@ -2,7 +2,7 @@
 # 👨‍💻 Sudhanshu Badole
 #### Full Stack Developer | Coding Educator | Open Source Enthusiast
 
-🚀 Welcome to my coding universe! I'm Sudhanshu Badole—a passionate Back-end Developer, coding educator and explorer of all things tech. Currently, I'm delving into Odoo development, crafting dynamic Django projects, and embarking on exciting open source adventures.
+🚀 Welcome to my coding universe! I'm Sudhanshu Badole, a passionate Back-end Developer, coding educator and explorer of all things tech. Currently, I'm delving into Odoo development, crafting dynamic Django projects, and embarking on exciting open source adventures.
 
 
 ### ⚡ Skills that Ignite My Code
@@ -28,4 +28,6 @@
 💌 Feel free to reach out for collaborations, teaching opportunities, or simply geeking out over the latest in tech!
 
 ![tablet-3423712_1920](https://github.com/Sudhanshu-Badole/Sudhanshu-Badole/assets/117152309/8f751856-5fdb-4c2f-8224-f4630f15fd3f)
+
+
 
